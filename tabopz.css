@@ -1,0 +1,98 @@
+ *{
+      margin: 0;
+      padding: 0;
+      box-sizing : border-box;
+    }
+    
+    body {
+      background: #212121;
+    }
+
+.canales a img.imagecard {
+width: 10rem;
+height: 6rem;
+border-radius: 0.5rem;
+}
+.canales {
+display: block;
+background: #212121;
+margin-top: -50px;
+}
+
+.center {
+    position: relative;
+    
+/*overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+justify-content: space-around;*/
+}
+
+.card {
+    display: inline-grid;
+    text-align: center;
+    text-decoration: none;
+    margin: 0.2rem;
+    border-radius: 0.4rem;
+    border-left: 1px solid #f2eeee;
+    border: 2px solid transparent;
+}
+
+div a span.spamer {
+    font-size: 0.9rem;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #f0f0f0;
+    padding: 3px;
+    border-radius: 0px;
+}
+
+    
+   #select-box {
+     background: #f0f0f0;
+     color: #212121;
+     text-align: center;
+     font-size: 1rem;
+     font-weight: 800;
+     border-radius: 0.4rem;
+     outline: none;
+     width: 10rem;
+     height: 2rem;
+     margin: 0.4rem;
+   } 
+    
+
+    
+.tab-navigation { 
+  margin-bottom:40px; 
+  
+}
+.tab-content { 
+  width:100%;
+  height:100%;
+  color:white; 
+  font-size:30px; 
+  text-align: center; 
+  line-height:26px; 
+  padding-top:30px;
+  
+}
+#tab-1 { 
+  background: #212121; 
+  
+}
+#tab-2 { 
+  background: #212121; 
+  
+}
+#tab-3 {
+  background: #212121; 
+  }
+#tab-4 {
+  background: #212121; 
+  
+}
+#tab-5 { 
+  background: #212121; 
+}
+    
